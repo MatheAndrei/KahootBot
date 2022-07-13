@@ -1,0 +1,13 @@
+# - choose any browser from 'chrome', 'firefox', 'brave' and 'edge'
+# - specify an absolute path
+# - the browser-path property can be skipped if the browser used is not Brave
+# - for linux users don't use '~' in the path
+#
+# Example:
+# browser-name=brave
+# browser-path=/usr/bin/brave-browser
+# webdriver-path=/home/foo/KahootBot/chromedriver
+
+browser-name=
+browser-path=
+webdriver-path=
