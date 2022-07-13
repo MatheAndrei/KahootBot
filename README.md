@@ -7,6 +7,7 @@
 ## Dependencies
 - urllib
 - json
+- time
 - selenium v4.3.0
 
 ## How to use
