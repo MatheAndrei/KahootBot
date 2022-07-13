@@ -17,14 +17,14 @@ the ChromeDriver.
 1. Fill the properties' value in the _config.txt_ file. The browser name, browser path and 
 webdriver path must be provided (specify their absolute path). The browser path can be left 
 blank if the browser used is not Brave.
-2. Run the _main.py_ script. You'll be asked to enter quiz id (can be taken from the URL), 
+2. Run the _main.py_ script. You'll be asked to enter the quiz id (can be taken from the URL), 
 game pin and the nickname that will be used in the game.
-3. Sit back and enjoy watching the bot competing with the other player!
+3. Sit back and enjoy watching the bot competing with the other players!
 
 ## Important notes
 - the webdriver must have the same version as the browser
 - Brave is based on chromium, so the bot must use the ChromeDriver in this case
-- specify absolute path in the _config.txt_ file; for Linux users, __~__ cannot be used in path
+- specify absolute paths in the _config.txt_ file; for Linux users, __~__ cannot be used in path
 - the bot only works with public kahoots (otherwise the kahoot data cannot be retrieved)
 - the bot will wait for the next quiz if the current quiz's type cannot be handled
 
