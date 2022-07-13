@@ -2,7 +2,7 @@
 # Author: Mathe Andrei
 # Requirements: python 3.10 or greater, any supported browser (Google Chrome,
 # Firefox, Brave, Microsoft Edge)
-# Dependencies: urllib, json, selenium (version 4.3.0)
+# Dependencies: urllib, json, time, selenium (version 4.3.0)
 #
 # How to use:
 # 0. Download the corresponding webdriver of the used browser (must have the same
