@@ -190,6 +190,7 @@ def main():
         WebDriverWait(driver, 1000).until(EC.presence_of_element_located((By.XPATH, '//div[contains(@class, "ResultPage")]')))
 
     # cleanup
+    driver.close()
     driver.quit()
     service.stop()
 
