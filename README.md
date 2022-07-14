@@ -1,5 +1,8 @@
 # KahootBot
 
+## Overview
+KahootBot is a bot that can play by itself almost any kahoot on [kahoot.com](www.kahoot.com).
+
 ## Requirements
 - python 3.10 or greater
 - any supported browser: Google Chrome, Firefox, Brave, Microsoft Edge

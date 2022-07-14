@@ -1,7 +1,11 @@
 # ----------------------------------------------------------------------------------
 # Author: Mathe Andrei
+#
+# Overview: KahootBot is a bot that can play by itself almost any kahoot on www.kahoot.com.
+#
 # Requirements: python 3.10 or greater, any supported browser (Google Chrome,
 # Firefox, Brave, Microsoft Edge)
+#
 # Dependencies: urllib, json, time, selenium (version 4.3.0)
 #
 # How to use:
