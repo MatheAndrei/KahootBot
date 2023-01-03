@@ -1,7 +1,7 @@
 # KahootBot
 
 ## Overview
-KahootBot is a bot that can play by itself almost any kahoot on [kahoot.com](www.kahoot.com).
+KahootBot is a bot that can play by itself almost any kahoot on [kahoot.com](https://kahoot.com).
 
 ## Requirements
 - python 3.10 or greater
